@@ -22,4 +22,4 @@ Manual QA fundamentals complete. Currently applying to junior QA roles while act
 - `/programming-basics` — Python/SQL practice (coming soon)
 
 ## About
-I'm documenting this journey publicly while actively job hunting. If you're hiring for an entry-level QA role, I'd love to connect: [LinkedIn](your-linkedin-url-here](https://www.linkedin.com/in/john-rey-rio-b42b09ab/?skipRedirect=true).
+I'm documenting this journey publicly while actively job hunting. If you're hiring for an entry-level QA role, I'd love to connect: [LinkedIn](https://www.linkedin.com/in/john-rey-rio-b42b09ab/?skipRedirect=true).
